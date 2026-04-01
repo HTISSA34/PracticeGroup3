@@ -1,2 +1,1 @@
-L
-My name is Ragge and this is my commit
+My name is Bertil and this is my commit
