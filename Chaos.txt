@@ -1,1 +1,4 @@
+a
+bunch
+of changes
 My name is Bertil and this is my commit
