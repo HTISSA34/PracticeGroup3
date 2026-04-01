@@ -6,3 +6,22 @@ THIS IS A MAJOR CHANGE TO EVERYTHING
 *big bang*
 
 This is not a "simple" way to work……. trying to do this is fine
+<<<<<<< Updated upstream
+Stashing things i guess AF so weird
+
+no
+*frowns*
+# **big bang**
+=======
+and a secret change here as well
+
+This is not a "simple" way to work……. trying to do this is fine
+This is not a "simple" way to work……. 
+a very specific change
+
+trying to do something
+*big bang*
+more changes yes
+yes
+yes
+>>>>>>> Stashed changes
