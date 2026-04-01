@@ -1,5 +1,7 @@
-THIS IS A MAJOR CHANGE TO EVERYTHING
-THIS IS A MAJOR CHANGE TO EVERYTHING
+What is going on????????????
+My name is Bertil and this is my commit
+
+*frowns*
 THIS IS A MAJOR CHANGE TO EVERYTHING
 THIS IS A MAJOR CHANGE TO EVERYTHING
 THIS IS A MAJOR CHANGE TO EVERYTHING
@@ -9,8 +11,6 @@ This is not a "simple" way to work……. trying to do this is fine
 <<<<<<< Updated upstream
 Stashing things i guess AF so weird
 
-no
-*frowns*
 # **big bang**
 =======
 and a secret change here as well
