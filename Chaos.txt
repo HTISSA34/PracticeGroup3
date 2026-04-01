@@ -7,6 +7,8 @@ THIS IS A MAJOR CHANGE TO EVERYTHING
 THIS IS A MAJOR CHANGE TO EVERYTHING
 *big bang*
 
+an addition
+
 This is not a "simple" way to work……. trying to do this is fine
 Stashing things i guess AF so weird
 
@@ -14,7 +16,6 @@ Stashing things i guess AF so weird
 and a secret change here as well
 
 This is not a "simple" way to work……. trying to do this is fine
-This is not a "simple" way to work……. 
 a very specific change
 
 trying to do something
@@ -22,6 +23,8 @@ trying to do something
 more changes yes
 yes
 yes
+
+another addition
 
 ss
 
