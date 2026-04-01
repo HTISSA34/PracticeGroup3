@@ -2,5 +2,3 @@ What is going on????????????
 My name is Bertil and this is my commit
 
 This is not a "simple" way to work……. 
-
-this is a change I will make just to remove it later
