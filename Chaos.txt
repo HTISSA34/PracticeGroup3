@@ -4,18 +4,29 @@ THIS IS A MAJOR CHANGE TO EVERYTHING
 THIS IS A MAJOR CHANGE TO EVERYTHING
 THIS IS A MAJOR CHANGE TO EVERYTHING
 *big bang*
-This comes from ragge's branch
-What is going on????????????
-My name is Bertil and this is my commit
+
+This is not a "simple" way to work……. trying to do this is fine
+<<<<<<< Updated upstream
+Stashing things i guess AF so weird
+
+no
+*frowns*
+# **big bang**
+=======
+and a secret change here as well
 
 This is not a "simple" way to work……. trying to do this is fine
 This is not a "simple" way to work……. 
-
+a very specific change
 
 trying to do something
 *big bang*
 more changes yes
 yes
+<<<<<<< HEAD
 yes
 
 ss
+=======
+>>>>>>> Stashed changes
+>>>>>>> 65427fe08c83e33b7265c4aa0b0a91f11b9bbadd
