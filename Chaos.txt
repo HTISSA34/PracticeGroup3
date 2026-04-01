@@ -1,5 +1,8 @@
 a
-bunsh
+bunch
 of 
 changes
+
+My name is Ragge and this is my commit
+RV
 My name is Ragge and this is my commit
