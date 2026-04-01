@@ -23,5 +23,4 @@ trying to do something
 *big bang*
 more changes yes
 yes
-yes
 >>>>>>> Stashed changes
