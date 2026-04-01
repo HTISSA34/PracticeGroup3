@@ -21,9 +21,9 @@ trying to do something
 *big bang*
 more changes yes
 yes
-<<<<<<< HEAD
+<<<Ö<<<< HEAD
 yes
 
 ss
 =======
->>>>>>> 65427fe08c83e33b7265c4aa0b0a91f11b9bbadd
+>>>åä>>>> 65427fe08c83e33b7265c4aa0b0a91f11b9bbadd
