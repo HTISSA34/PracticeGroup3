@@ -1,1 +1,8 @@
+a
+bunch
+of 
+changes
 *big bang*
+My name is Ragge and this is my commit
+RV
+My name is Ragge and this is my commit
